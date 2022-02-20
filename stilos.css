@@ -1,0 +1,68 @@
+#myDIV{
+    background-color: #fd5246;
+    padding: 60px 40px;
+    color: white;
+    text-align: center;
+    display:block;
+
+}
+input{
+    margin-bottom: 20px;
+    border: none;
+    width: 75%;
+    padding: 10px;
+    float: left;
+    font-size: 16px;
+
+
+
+}
+table{
+
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+
+
+}
+
+tr,table{
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    list-style-type: none;
+    background: #eee;
+    font-size: 20px;
+
+    
+
+
+
+
+}
+
+
+
+
+h1{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.addBtn {
+    padding: 10px;
+    width: 20%;
+    background: #d9d9d9;
+    color: #555;
+    float: right;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0;
+    margin-left: -10px;
+  }
